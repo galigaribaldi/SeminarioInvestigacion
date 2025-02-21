@@ -1,0 +1,68 @@
+DATOS AUXILIARES PARA LOS CONJUNTOS DE DATOS VECTORIALES
+
+DATOS GENERALES DEL CONJUNTO DE DATOS
+________________________________________________________________________
+Clave: E1411
+Nombre: Acapulco
+Escala: 1:250,000
+Tema: Efectos Clim?ticos Regionales (Noviembre-Abril)
+Tipo de dato: Vectorial
+Serie: I
+
+Autoridad productora: Inegi
+Cobertura estatal: Guerrero, Oaxaca
+Proyecci?n cartogr?fica: Universal Transversa de Mercator
+Datum de referencia: NAD27
+
+M?TODOS Y MATERIALES DE COMPILACI?N
+________________________________________________________________________
+N?mero    Mes          A?o      M?todo de Compilaci?n
+
+9         Febrero      1984     Compilaci?n Cartogr?fica
+
+7         Febrero      1984     An?lisis Visual
+
+5         Febrero      1984     Compilaci?n Bibliogr?fica
+
+2         Febrero      1984     Generalizaci?n Cartogr?fica
+
+M?TODOS Y MATERIALES DE ACTUALIZACI?N
+________________________________________________________________________
+N?mero    Mes          A?o      M?todo de Actualizaci?n
+
+
+DATOS SOBRE EL PROCESO DE CONVERSI?N
+________________________________________________________________________
+Medios para la conversi?n: Barredor ?ptico_m?canico
+Responsable de la conversi?n: Inegi
+Fecha de la conversi?n: Octubre 2000
+
+ESTAD?STICAS DE LOS DATOS
+Entidad                                 Puntos   L?neas   ?reas
+
+Isoterma M?xima                              0       67       0
+Isoterma M?nima                              0       53       0
+Isoyeta Media                                0       11       0
+Zona de Heladas                              0        0      13
+Zona con Lluvia Apreciable                   0        0      13
+Direcci?n de los Vientos Dominantes          0       23       0
+
+LIGAS CON DATOS ADYACENTES
+Liga          Clave          Mes          A?o
+
+Norte         E1408          Agosto       2001
+Sur                 
+Este          E1412          Agosto       2001
+Oeste         E1410          Agosto       2001
+
+MODELO DE DATOS VECTORIALES
+Versi?n: 1
+Fecha: Noviembre 2000
+
+NORMAS PARA LA CAPTURA DE DATOS
+Nombre:
+Versi?n: 0
+Fecha: Noviembre 2000
+
+Observaciones:
+
