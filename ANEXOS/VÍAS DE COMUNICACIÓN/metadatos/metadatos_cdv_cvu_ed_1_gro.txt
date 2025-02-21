@@ -1,0 +1,31 @@
+identifier:
+
+title: Conjunto de datos vectoriales de Carreteras y Vialidades Urbanas. Edición 1.0, Guerrero 
+
+description: Proporcionar a las unidades del estado y a todos los sectores de la sociedad la información de la infraestructura carretera con que cuenta el país a través de la estructuración de información vectorial de carreteras y vialidades para que pueda ser aprovechada para la toma de decisiones. Sistema de circulación lineal estructurado que integra carreteras pavimentadas y vialidades de localidades urbanas, así como la integración de principales vialidades de localidades rurales que interconectan con carreteras, además de presentar una actualización en función del comparativo con la cobertura 2007-2008 de la SCT.
+
+modified: 2011-11-30 	
+
+publisher: Instituto Nacional de Estadística y Geografía – INEGI
+
+mbox: atencion.usuarios@inegi.org.mx
+
+license: Términos de Libre Uso de la Información del INEGI http://www.inegi.org.mx/terminos/terminos_info.aspx
+
+datadictionary:
+
+keyword: vialidades, números, carreteras, marcos, geoestadísticos, vías, transportes, pavimentadas, bases, cartográficas, únicas, sectores, comunicaciones, transportes.  
+
+contactpoint: Lic. José de Jesús Esquivel de la Rosa, 01800 111 4634
+
+temporal: 2011-01-03-2011-11-30
+
+spatial: Guerrero 
+
+accrualperiodicity: 
+
+distribution: http://internet.contenidos.inegi.org.mx/contenidos/Productos/prod_serv/contenidos/espanol/bvinegi/productos/geografia/carr_vial/Guerrero/702825292003_s.zip 
+
+
+
+	
