@@ -1,0 +1,366 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<Metadata>
+<MD_DataIdentification>
+<title>Conjunto de Datos Vectoriales de la Cartografía de Uso Potencial de las Tierras, Escala 1: 1 000 000 (Continuo Nacional)
+</title>
+<purpose>Proporcionar al usuario información sobre las posibilidades de uso de las tierras en las actividades agrícolas, pecuarias y forestales, que sirvan para la toma de decisiones respecto al ordenamiento ecológico y territorial a nivel nacional. </purpose>
+<abstract>El Continuo Nacional de la Cartografía de Uso Potencial de las Tierras Escala 1:1 000  000 contiene información que fue obtenida a través de la interpretación de imágenes de satélite Landsat 7 así como la evaluación de las condiciones ambientales y cobertura vegetal que conforman las unidades de tierra, para determinar sus posibilidades de uso.
+Está constituido por 4 capas de información:
+- Uso Potencial Agrícola. Contiene información sobre la aptitud de las unidades de tierra para esta actividad, el método de labranza utilizado ya sea mecanizado, con tracción animal o con instrumentos manuales; el establecimiento de las actividades agrícolas a través del año, ya sea de manera continua o estacional, en consideración a la aplicación de riego o por medio del temporal; el grado de aptitud para el desarrollo de los cultivos, al grado de aptitud para realizar la labranza y el grado de aptitud para el establecimiento de obras para riego.
+- Uso Potencial Pecuario. Contiene información sobre la aptitud de las unidades de tierra para la actividad ganadera, del método de labranza, de la fuente de forraje, de la cobertura vegetal, del tipo de ganado, así como también de la aptitud para el desarrollo de forrajes  cultivados, del establecimiento de las praderas cultivadas, de la movilidad del ganado en el área de pastoreo y las condiciones que presenta la vegetación.
+- Uso Potencial Forestal. Proporciona información sobre la aptitud de las tierras para el aprovechamiento forestal, las condiciones de la vegetación para este aprovechamiento y la aptitud de las tierras para la extracción de los productos forestales.
+- Requerimientos de riego. Proporciona información sobre las zonas y los tipos de requerimientos de riego que necesitarían los cultivos y forrajes cultivados, en función de los tipos climáticos presentes. Esta capa se sobrepone a las capas de Uso Potencial Agrícola y Uso Potencial Pecuario.</abstract>
+<MD_DataIdentification_language>ES - Español.</MD_DataIdentification_language>
+<topicCategory>
+<principalTopic>  1. Agricultura, Cría y Explotación de Animales: Cultivo de plantas o cría de animales.</principalTopic>
+<principalTopic>  5. Medio ambiente: Recursos medio ambientales, protección y conservación. </principalTopic>
+<groupCategory>1. Grupo de datos de recursos naturales y clima: Subdivisión de la Infraestructura de Datos Espaciales de México que representan espacialmente la distribución y naturaleza de los recursos naturales que existen en el territorio nacional, así como la configuración de sus diversos climas. A través de ellos puede obtenerse información del estado, presión y respuesta de la interacción humana con su medio ambiente.</groupCategory>
+</topicCategory>
+<keyword>Uso potencial de las tierras.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Características de la vegetación para el aprovechamiento forestal.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Clases de capacidad de uso de las tierras.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Condición de la vegetación para uso pecuario.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Desarrollo de especies forrajeras.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Desarrollo de los cultivos.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Extracción de los productos forestales.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Implantación de obras para riego.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Labranza.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Movilidad del ganado en el área de pastoreo.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Nivel de aptitud de las tierras.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Posibilidades de uso agrícola.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Posibilidades de uso de la tierra.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Posibilidades de uso forestal.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Posibilidades de uso pecuario.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Sistema de evaluación de tierras.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Tierras aptas para agricultura con tracción animal.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Tierras aptas para agricultura manual.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Tierras aptas para agricultura mecanizada.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Tierras aptas para el aprovechamiento de la vegetación natural.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Tierras aptas para el desarrollo de praderas cultivadas.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Tierras aptas para uso forestal.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Tierras aptas para uso forestal comercial.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Tierras aptas para uso forestal doméstico.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Tierras aptas para uso forestal industrial.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Tierras aptas para agricultura.</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<thesaurusName>Ninguno</thesaurusName>
+<edition>Primera</edition>
+<presentationForm>  5. Mapa digital: Mapa representado en formato raster o vector.</presentationForm>
+<CI_OnlineResource>
+<CI_OnlineResource_linkage>http://www.inegi.org.mx</CI_OnlineResource_linkage>
+<CI_OnlineResource_description> </CI_OnlineResource_description>
+</CI_OnlineResource>
+<maintenanceAndUpdateFrequency>10. Desconocido: La frecuencia de mantenimiento de los datos no se conoce.</maintenanceAndUpdateFrequency>
+<MD_DataIdentification_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</MD_DataIdentification_characterSet>
+<graphfilename>Continuo Nacional de Uso Potencial</graphfilename>
+<specuse>Ejemplo ilustrativo del Conjunto de Datos Vectoriales de la Cartografía de Uso Potencial de las Tierras, Escala 1:1 000 000 (Continuo Nacional), que muestra una vista general de la representación espacial de los datos.</specuse>
+</MD_DataIdentification>
+<CI_Date>
+<Dates_Events>
+<date>2000-03-01</date>
+<dateType>1. Creación: Indicador  de la fecha que especifica cuando fue creado el recurso.</dateType>
+<date>2012-08-01</date>
+<dateType>3. Revisión: Identificador de la fecha que especifica cuando el recurso fue examinado o re-examinado y mejorado o corregido.</dateType>
+</Dates_Events>
+<Ad_Date>
+<date_creation>1978-11-01</date_creation>
+<date_begin>1979-10-01</date_begin>
+<date_end>1981-09-01</date_end>
+<inpname>Información de recursos naturales y medio ambiente escala 1:1 000 000.</inpname>
+</Ad_Date>
+</CI_Date>
+<CI_ResponsibleParty>
+<CI_ResponsibleParty_individualName>Lic. Luz María Velázquez Márquez.</CI_ResponsibleParty_individualName>
+<CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</CI_ResponsibleParty_organisationName>
+<CI_ResponsibleParty_positionName>Jefa del Departamento de Atención a Usuarios y Comercialización.</CI_ResponsibleParty_positionName>
+<CI_ResponsibleParty_voice>(449)9105300 Ext. 1406, 1407 y 1408. Lada 01 800 111 46 34.</CI_ResponsibleParty_voice>
+<CI_ResponsibleParty_facsimile></CI_ResponsibleParty_facsimile>
+<CI_ResponsibleParty_deliveryPoint>Av. Héroe de Nacozari Sur Núm. 2301. Fracc. Jardines del Parque.</CI_ResponsibleParty_deliveryPoint>
+<CI_ResponsibleParty_city>Aguascalientes.</CI_ResponsibleParty_city>
+<CI_ResponsibleParty_administrativeArea>Aguascalientes.</CI_ResponsibleParty_administrativeArea>
+<CI_ResponsibleParty_postalCode>20276.</CI_ResponsibleParty_postalCode>
+<CI_ResponsibleParty_country>México.</CI_ResponsibleParty_country>
+<CI_ResponsibleParty_electronicMailAddress>atencion.usuarios@inegi.org.mx</CI_ResponsibleParty_electronicMailAddress>
+<CI_ResponsibleParty_linkage>http://www.inegi.org.mx/</CI_ResponsibleParty_linkage>
+<CI_ResponsibleParty_role>  5. Distribuidor: Parte que distribuye el recurso.</CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<CI_ResponsibleParty>
+<CI_ResponsibleParty_individualName>Biól. Amós Antonio Pérez Hernández</CI_ResponsibleParty_individualName>
+<CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</CI_ResponsibleParty_organisationName>
+<CI_ResponsibleParty_positionName>Subdirector de Regionalización</CI_ResponsibleParty_positionName>
+<CI_ResponsibleParty_voice>(449)9105300 Ext. 2982.</CI_ResponsibleParty_voice>
+<CI_ResponsibleParty_facsimile></CI_ResponsibleParty_facsimile>
+<CI_ResponsibleParty_deliveryPoint>Av. Héroe de Nacozari Sur Núm. 2301 Fracc. Jardines del Parque</CI_ResponsibleParty_deliveryPoint>
+<CI_ResponsibleParty_city>Aguascalientes</CI_ResponsibleParty_city>
+<CI_ResponsibleParty_administrativeArea>Aguascalientes</CI_ResponsibleParty_administrativeArea>
+<CI_ResponsibleParty_postalCode>20276</CI_ResponsibleParty_postalCode>
+<CI_ResponsibleParty_country>México</CI_ResponsibleParty_country>
+<CI_ResponsibleParty_electronicMailAddress>amos.perez@inegi.org.mx</CI_ResponsibleParty_electronicMailAddress>
+<CI_ResponsibleParty_linkage>http://www.inegi.org.mx</CI_ResponsibleParty_linkage>
+<CI_ResponsibleParty_role>  7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.</CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<westBoundLongitude>-118.45</westBoundLongitude>
+<eastBoundLongitude>-86.70</eastBoundLongitude>
+<southBoundLatitude>14.53</southBoundLatitude>
+<northBoundLatitude>32.71</northBoundLatitude>
+</EX_GeographicBoundingBox>
+<spatialRepresentationType>1. Vector: Los datos vectoriales se utilizan para representar datos espaciales.</spatialRepresentationType>
+</geographicElement>
+<MD_ReferenceSystem>
+<ReferenceHorizontalSystem>
+<geograph>
+<latres></latres>
+<longres></longres>
+<geogunit></geogunit>
+</geograph>
+<planar>
+<mapprojn>
+<lambertc>
+<lambertc_stdparll>17.5</lambertc_stdparll>
+<lambertc_stdparll>29.5</lambertc_stdparll>
+<lambertc_longcm>-102</lambertc_longcm>
+<lambertc_latprjo>12</lambertc_latprjo>
+<lambertc_feast>2500000</lambertc_feast>
+<lambertc_fnorth>0</lambertc_fnorth>
+</lambertc>
+<mercatort>
+<mercatort_sfctrmer> </mercatort_sfctrmer>
+<mercatort_longcm> </mercatort_longcm>
+<mercatort_latprjo> </mercatort_latprjo>
+<mercatort_feast> </mercatort_feast>
+<mercatort_fnorth> </mercatort_fnorth>
+</mercatort>
+<mercator>
+<mercator_stdparll> </mercator_stdparll>
+<mercator_sfec> </mercator_sfec>
+<mercator_longcm> </mercator_longcm>
+<mercator_feast> </mercator_feast>
+<mercator_fnorth> </mercator_fnorth>
+</mercator>
+<tme>
+<tme_sfctrmer> </tme_sfctrmer>
+<tme_longcm> </tme_longcm>
+<tme_latprjo> </tme_latprjo>
+<tme_feast> </tme_feast>
+<tme_fnorth> </tme_fnorth>
+</tme>
+<anoth_proj_def>
+</anoth_proj_def>
+</mapprojn>
+<gridcoordinatessystem>
+<utm>
+<utm_zone></utm_zone>
+<utm_sfctrmer></utm_sfctrmer>
+<utm_longcm></utm_longcm>
+<utm_latprjo></utm_latprjo>
+<utm_feast></utm_feast>
+<utm_fnorth></utm_fnorth>
+</utm>
+</gridcoordinatessystem>
+<local_planar>
+<local_planar_desc></local_planar_desc>
+<local_planar_geo_inf></local_planar_geo_inf>
+</local_planar>
+<planci>
+<plance>Par coordenado.</plance>
+<coord_repres>
+<absres>1</absres>
+<ordres>1</ordres>
+</coord_repres>
+<distance_and_bearing_repres>
+<distance_res></distance_res>
+<bearing_res></bearing_res>
+<bearing_uni></bearing_uni>
+<ref_bearing_dir></ref_bearing_dir>
+<ref_bearing_mer></ref_bearing_mer>
+</distance_and_bearing_repres>
+<plandu>Metros.</plandu>
+</planci>
+</planar>
+<local_coordinates>
+<local_desc></local_desc>
+<local_geo_inf></local_geo_inf>
+</local_coordinates>
+<geodetic>
+<horizdn>NAD-27 Datum de Norteamérica de 1927.</horizdn>
+<ellips>Texto libre.</ellips>
+<semiaxis>6378206.4</semiaxis>
+<denflat>294.9786982</denflat>
+</geodetic>
+</ReferenceHorizontalSystem>
+<ReferenceVerticalSystem>
+<altsys>
+<altdatum></altdatum>
+<altres></altres>
+<altunits></altunits>
+<altenc> </altenc>
+</altsys>
+<depthsys>
+<depthdn></depthdn>
+<depthres></depthres>
+<depthdu></depthdu>
+<depthem> </depthem>
+</depthsys>
+</ReferenceVerticalSystem>
+</MD_ReferenceSystem>
+<DQ_DataQuality>
+<DQ_Scope>
+<level>  1. Atributo: Información aplicada al valor de atributo.</level>
+</DQ_Scope>
+<report>
+<DQ_Completeness>
+<DQ_Completeness_evalqualsubname>
+<DQ_Completeness_nameOfMeasure></DQ_Completeness_nameOfMeasure>
+<DQ_Completeness_measureDescription></DQ_Completeness_measureDescription>
+<DQ_Completeness_result>
+<DQ_Completeness_DQ_QuantitativeResult>
+<DQ_Completeness_valueUnit></DQ_Completeness_valueUnit>
+<DQ_Completeness_value></DQ_Completeness_value></DQ_Completeness_DQ_QuantitativeResult>
+</DQ_Completeness_result>
+</DQ_Completeness_evalqualsubname>
+</DQ_Completeness>
+<DQ_LogicConsistency>
+<DQ_LogicConsistency_evalqualsubname>
+<DQ_LogicConsistency_nameOfMeasure></DQ_LogicConsistency_nameOfMeasure>
+<DQ_LogicConsistency_measureDescription></DQ_LogicConsistency_measureDescription>
+<DQ_LogicConsistency_result>
+<DQ_LogicConsistency_DQ_QuantitativeResult>
+<DQ_LogicConsistency_valueUnit></DQ_LogicConsistency_valueUnit>
+<DQ_LogicConsistency_value></DQ_LogicConsistency_value></DQ_LogicConsistency_DQ_QuantitativeResult>
+</DQ_LogicConsistency_result>
+</DQ_LogicConsistency_evalqualsubname>
+</DQ_LogicConsistency>
+<PositionalAccuracy>
+<PositionalAccuracy_evalqualsubname>
+<PositionalAccuracy_nameOfMeasure></PositionalAccuracy_nameOfMeasure>
+<PositionalAccuracy_measureDescription></PositionalAccuracy_measureDescription>
+<PositionalAccuracy_result>
+<PositionalAccuracy_DQ_QuantitativeResult>
+<PositionalAccuracy_valueUnit></PositionalAccuracy_valueUnit>
+<PositionalAccuracy_value></PositionalAccuracy_value></PositionalAccuracy_DQ_QuantitativeResult>
+</PositionalAccuracy_result>
+</PositionalAccuracy_evalqualsubname>
+</PositionalAccuracy>
+<TemporalAccuracy>
+<TemporalAccuracy_evalqualsubname>
+<TemporalAccuracy_nameOfMeasure></TemporalAccuracy_nameOfMeasure>
+<TemporalAccuracy_measureDescription></TemporalAccuracy_measureDescription>
+<TemporalAccuracy_result>
+<TemporalAccuracy_DQ_QuantitativeResult>
+<TemporalAccuracy_valueUnit></TemporalAccuracy_valueUnit>
+<TemporalAccuracy_value></TemporalAccuracy_value></TemporalAccuracy_DQ_QuantitativeResult>
+</TemporalAccuracy_result>
+</TemporalAccuracy_evalqualsubname>
+</TemporalAccuracy>
+<ThematicAccuracy>
+<ThematicAccuracy_evalqualsubname>
+<ThematicAccuracy_nameOfMeasure></ThematicAccuracy_nameOfMeasure>
+<ThematicAccuracy_measureDescription></ThematicAccuracy_measureDescription>
+<ThematicAccuracy_result>
+<ThematicAccuracy_DQ_QuantitativeResult>
+<ThematicAccuracy_valueUnit></ThematicAccuracy_valueUnit>
+<ThematicAccuracy_value></ThematicAccuracy_value></ThematicAccuracy_DQ_QuantitativeResult>
+</ThematicAccuracy_result>
+</ThematicAccuracy_evalqualsubname>
+</ThematicAccuracy>
+</report>
+<LI_Lineage>
+<statement>La base de datos del Conjunto de Datos Vectoriales de la Cartografía de Uso Potencial de las Tierras, Escala 1:1 000 000 (Continuo Nacional), comprende los tres rubros: agrícola, pecuario y forestal. Fue generada a partir de los 8 conjuntos de datos vectoriales: Tijuana, La Paz, Chihuahua, Monterrey, Guadalajara, México, Villahermosa, y Mérida, de la cartografía a escala 1: 1 000 000.
+Los mapas impresos de uso potencial escala 1:1 000 000 se elaboraron mediante la recopilación y análisis de la información bibliográfica y cartográfica de las condiciones ambientales de las áreas de estudio; una vez que hubo sido seleccionada la información, se procedió a trazar las unidades por clase de pendiente (topografía) y se adecuaron éstas a la escala de representación. Se integró un mosaico de unidades por topografía, se transfirieron y fueron calcadas en herculene. Se elaboró un itinerario preliminar de campo; se hizo el comparativo de la información temática, caracterización y puntos de control. Se realizó la verificación de campo y posteriormente se redactó un informe técnico. Posteriormente se reinterpretaron y evaluaron las unidades. Se hizo la revisión de la información, la elaboración y corrección de textos, así como la captura de la información en la computadora.
+</statement>
+<LI_ProcessStep>
+<LI_ProcessStep_description>1. Selección del área.
+2. Selección de los tipos de utilización de la tierra.
+3. Definición de las condiciones ambientales de los tipos de utilización de la tierra.
+4. Establecimiento de requerimientos de cada tipo de utilización de la tierra.
+5. Solicitud de información de recursos naturales y medio ambiente.
+6. Integración de información de recursos naturales y medio ambiente.
+7. Análisis de información de recursos naturales y medio ambiente.
+8. Elaboración de los mapas de pendientes y de condiciones ambientales.
+9. Intersección del mapa de pendientes con cada uno de los mapas de condiciones ambientales.
+10. Obtención del mapa de unidades con su caracterización de las condiciones ambientales.
+11. Confrontación del mapa de condiciones ambientales con el mapa de uso del suelo y vegetación.
+12. Determinación de las clases de capacidad de uso y grado de aptitud.
+13. Impresión del mapa de caracterización de condiciones ambientales y clases de capacidad de uso.
+14. Selección de puntos de verificación de campo.
+15. Elaboración de itinerario para verificación de campo.
+16. Verificación en campo de las condiciones ambientales y clases de capacidad de uso.
+17. Elaboración de informe técnico de la verificación de campo.
+18. Corrección de la evaluación de las condiciones ambientales y clases de capacidad de uso de las unidades de tierra.
+19. Revisión del mapa de las condiciones ambientales y clases de capacidad de uso.
+20. Validación de la información vectorial y descriptiva del área.
+21. Elaboración de la información complementaria descriptiva del área.
+22. Envío a edición.
+23. Fin del proceso.
+
+</LI_ProcessStep_description>
+</LI_ProcessStep>
+<LI_Source>
+<LI_Source_description>
+</LI_Source_description>
+</LI_Source>
+</LI_Lineage>
+</DQ_DataQuality>
+<Attributes>
+<schemaAscii>Los rasgos geográficos representados se definen como entidades con un componente de representación geométrica y un componente con atributos que los definen. Se les asocia un nombre con el fin de distinguirlas de otras entidades. Las entidades están descritas en el Diccionario de Datos.</schemaAscii>
+<entity_detail>El Diccionario de Datos de Uso Potencial, Escalas 1:250 000 y 1:1 000 000 (Vectorial) contiene una descripción completa de las entidades y atributos representados.
+Disponible en http://www.inegi.org.mx/contenidos/recnat/usopsuelo/Default.aspx</entity_detail>
+</Attributes>
+<MD_Distribution>
+<accessConstraints></accessConstraints>
+<useConstraints></useConstraints>
+<otherConstraints></otherConstraints>
+<MD_Format>
+<name> </name>
+<version> </version>
+</MD_Format>
+</MD_Distribution>
+<Inf_Metadata>
+<metadataStandardName>ISO 19115 Información Geográfica - Metadatos (Norma Técnica para Metadatos).</metadataStandardName>
+<metadataStandardVersion>2003 (1.0).</metadataStandardVersion>
+<Inf_Metadata_language>ES - Español.</Inf_Metadata_language>
+<CI_ResponsibleParty>
+<Inf_Metadata_CI_ResponsibleParty_individualName>Lic. Rafael Arrioja Urzúa.</Inf_Metadata_CI_ResponsibleParty_individualName>
+<Inf_Metadata_CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</Inf_Metadata_CI_ResponsibleParty_organisationName>
+<Inf_Metadata_CI_ResponsibleParty_positionName>Jefe del Departamento de Administración de Metadatos.</Inf_Metadata_CI_ResponsibleParty_positionName>
+<Inf_Metadata_CI_ResponsibleParty_voice>(449)9105300 Ext. 1750 y 5631.</Inf_Metadata_CI_ResponsibleParty_voice>
+<Inf_Metadata_CI_ResponsibleParty_facsimile>(449)4424145.</Inf_Metadata_CI_ResponsibleParty_facsimile>
+<Inf_Metadata_CI_ResponsibleParty_deliveryPoint>Av. Héroe de Nacozari Sur Núm. 2301. Fracc. Jardines del Parque.</Inf_Metadata_CI_ResponsibleParty_deliveryPoint>
+<Inf_Metadata_CI_ResponsibleParty_city>Aguascalientes.</Inf_Metadata_CI_ResponsibleParty_city>
+<Inf_Metadata_CI_ResponsibleParty_administrativeArea>Aguascalientes.</Inf_Metadata_CI_ResponsibleParty_administrativeArea>
+<Inf_Metadata_CI_ResponsibleParty_postalCode>20276</Inf_Metadata_CI_ResponsibleParty_postalCode>
+<Inf_Metadata_CI_ResponsibleParty_country>México</Inf_Metadata_CI_ResponsibleParty_country>
+<Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>rafael.arrioja@inegi.org.mx</Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>
+<Inf_Metadata_CI_ResponsibleParty_role>  7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.</Inf_Metadata_CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<dateStamp>2012-09-07</dateStamp>
+<Inf_Metadata_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</Inf_Metadata_characterSet>
+</Inf_Metadata>
+</Metadata>
