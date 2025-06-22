@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sld:UserStyle xmlns="http://www.opengis.net/sld" xmlns:sld="http://www.opengis.net/sld" xmlns:ogc="http://www.opengis.net/ogc" xmlns:gml="http://www.opengis.net/gml">
+  <sld:Name>AtlasStyler 1.9</sld:Name>
+  <sld:Title/>
+  <sld:FeatureTypeStyle>
+    <sld:Name>UNIQUE_VALUE_LINE</sld:Name>
+    <sld:Title>UniqueValuesLineRuleList</sld:Title>
+    <sld:FeatureTypeName>Feature</sld:FeatureTypeName>
+    <sld:Rule>
+      <sld:Title>Pavimentada</sld:Title>
+      <ogc:Filter>
+        <ogc:And>
+          <ogc:PropertyIsEqualTo>
+            <ogc:Literal>ALL_LABEL_CLASSES_ENABLED</ogc:Literal>
+            <ogc:Literal>ALL_LABEL_CLASSES_ENABLED</ogc:Literal>
+          </ogc:PropertyIsEqualTo>
+          <ogc:And>
+            <ogc:Not>
+              <ogc:Or>
+                <ogc:PropertyIsNull>
+                  <ogc:PropertyName>tipo</ogc:PropertyName>
+                </ogc:PropertyIsNull>
+                <ogc:PropertyIsEqualTo>
+                  <ogc:PropertyName>tipo</ogc:PropertyName>
+                  <ogc:Literal></ogc:Literal>
+                </ogc:PropertyIsEqualTo>
+              </ogc:Or>
+            </ogc:Not>
+            <ogc:PropertyIsEqualTo>
+              <ogc:PropertyName>tipo</ogc:PropertyName>
+              <ogc:Literal>Pavimentada</ogc:Literal>
+            </ogc:PropertyIsEqualTo>
+          </ogc:And>
+        </ogc:And>
+      </ogc:Filter>
+      <sld:MaxScaleDenominator>1.7976931348623157E308</sld:MaxScaleDenominator>
+      <sld:LineSymbolizer>
+        <sld:Geometry>
+          <ogc:PropertyName>the_geom</ogc:PropertyName>
+        </sld:Geometry>
+        <sld:Stroke>
+          <sld:CssParameter name="stroke">#732600</sld:CssParameter>
+          <sld:CssParameter name="stroke-linecap">square</sld:CssParameter>
+          <sld:CssParameter name="stroke-width">2.0</sld:CssParameter>
+        </sld:Stroke>
+      </sld:LineSymbolizer>
+      <sld:LineSymbolizer>
+        <sld:Geometry>
+          <ogc:PropertyName>the_geom</ogc:PropertyName>
+        </sld:Geometry>
+        <sld:Stroke>
+          <sld:CssParameter name="stroke">#E64C00</sld:CssParameter>
+        </sld:Stroke>
+      </sld:LineSymbolizer>
+    </sld:Rule>
+    <sld:Rule>
+      <sld:Title>Terracería</sld:Title>
+      <ogc:Filter>
+        <ogc:And>
+          <ogc:PropertyIsEqualTo>
+            <ogc:Literal>ALL_LABEL_CLASSES_ENABLED</ogc:Literal>
+            <ogc:Literal>ALL_LABEL_CLASSES_ENABLED</ogc:Literal>
+          </ogc:PropertyIsEqualTo>
+          <ogc:And>
+            <ogc:Not>
+              <ogc:Or>
+                <ogc:PropertyIsNull>
+                  <ogc:PropertyName>tipo</ogc:PropertyName>
+                </ogc:PropertyIsNull>
+                <ogc:PropertyIsEqualTo>
+                  <ogc:PropertyName>tipo</ogc:PropertyName>
+                  <ogc:Literal></ogc:Literal>
+                </ogc:PropertyIsEqualTo>
+              </ogc:Or>
+            </ogc:Not>
+            <ogc:PropertyIsEqualTo>
+              <ogc:PropertyName>tipo</ogc:PropertyName>
+              <ogc:Literal>Terracería</ogc:Literal>
+            </ogc:PropertyIsEqualTo>
+          </ogc:And>
+        </ogc:And>
+      </ogc:Filter>
+      <sld:MaxScaleDenominator>1.7976931348623157E308</sld:MaxScaleDenominator>
+      <sld:LineSymbolizer>
+        <sld:Geometry>
+          <ogc:PropertyName>the_geom</ogc:PropertyName>
+        </sld:Geometry>
+        <sld:Stroke>
+          <sld:CssParameter name="stroke">#B2B2B2</sld:CssParameter>
+        </sld:Stroke>
+      </sld:LineSymbolizer>
+    </sld:Rule>
+  </sld:FeatureTypeStyle>
+</sld:UserStyle>
